@@ -1,4 +1,4 @@
-# Meowing Bowine
+# Meowing Bovine
 
 ## Combat
 

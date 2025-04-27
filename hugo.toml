@@ -1,8 +1,8 @@
 baseURL = "https://risotto.joeroe.io"
 theme = "risotto"
-title = "Meowing Bowine Links"
-author = "Meowing Bowine"
-copyright = "Meowing Bowine"
+title = "Meowing Bovine Links"
+author = "Meowing Bovine"
+copyright = "Meowing Bovine"
 # paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -22,7 +22,7 @@ palette = "base16-dark"
 
 # Sidebar: about/bio
 # [params.about]
-# title = "Meowing Bowine"
+# title = "Meowing Bovine"
 # description = "A collection of useful MWI links ."
 # unicode/emoji logo:
 # logo = "🍚"
