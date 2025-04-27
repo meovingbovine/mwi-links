@@ -8,6 +8,7 @@
 ## Enhancing
 
 * [Enhancing costs calculator](https://doh-nuts.github.io/Enhancelator/)
+* [MWI Ultimate Enhancement Tracker and Beautifier](https://greasyfork.org/en/scripts/531872-mwi-ultimate-enhancement-tracker-v3-5-0)
 
 ## Skilling
 
@@ -42,3 +43,8 @@
 
 * [Guild XP Tracker](https://greasyfork.org/en/scripts/531792-guild-xp-h)
 * [Personal XP Tracker](https://greasyfork.org/en/scripts/532023-xp-h)
+
+## Guides
+
+* [Variety of guides.](https://milkywayidle.wiki.gg/wiki/Guides)
+* [Housing costs](https://milkywayidle.wiki.gg/wiki/Houses#tabber-tabpanel-Observatory-0)
