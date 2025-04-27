@@ -44,6 +44,10 @@
 * [Guild XP Tracker](https://greasyfork.org/en/scripts/531792-guild-xp-h)
 * [Personal XP Tracker](https://greasyfork.org/en/scripts/532023-xp-h)
 
+## Misc
+
+* [MilkyWayIdle MB Meme Maker (text replacer) ](https://greasyfork.org/en/scripts/529529-milkywayidle-mb-meme-maker)
+
 ## Guides
 
 * [Variety of guides.](https://milkywayidle.wiki.gg/wiki/Guides)
