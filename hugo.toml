@@ -1,4 +1,4 @@
-baseURL = "https://meowingbovine.github.io/mwi-links/"
+# baseURL = "https://meowingbovine.github.io/mwi-links/"
 theme = "risotto"
 title = "Meowing Bovine Links"
 author = "Meowing Bovine"
